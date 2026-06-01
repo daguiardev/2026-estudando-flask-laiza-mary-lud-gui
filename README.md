@@ -1,1 +1,2 @@
-# 2026-estudando-flask-laiza-mary-lud-gui
+# Repositório para Estudos de Python e Flask
+## Discentes: 
